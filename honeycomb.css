@@ -1,0 +1,188 @@
+.honeycomb {
+    width: 550px;
+    padding: 30px;
+    background: #a5b395;
+    margin: 0px auto;
+}
+
+.hc-c {
+    background: #f5f5f5;
+    border: 1px solid #889776;
+}
+
+.hc-t {
+    background: url(https://2img.net/i.imgur.com/si59z0o.png);
+    height: 300px;
+    text-align: center;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.ht-t span {
+    font-family: Amoresa;
+}
+
+.ht-t {
+    color: #fff;
+    font-size: 65px;
+    text-transform: uppercase;
+    font-family: Perandory;
+    padding-top: 130px;
+}
+
+.ht-b {
+    background: #b94444;
+    color: #fff;
+    margin: 0px 220px;
+    font-size: 8px;
+    letter-spacing: 1px;
+    position: relative;
+    top: 11px;
+    border-radius: 10px;
+    border: 1px solid #842525;
+    text-shadow: 1px 1px #000;
+    font-family: 'Azeret Mono';
+}
+
+.hc-d {
+    display: flex;
+    align-items: center;
+    padding: 0px 35px;
+    padding-top: 40px;
+    justify-content: center;
+}
+
+.hd-1 {
+    width: 305px;
+    text-align: justify;
+    font-size: 12px;
+    padding-right: 21px;
+}
+
+.hd1-t {
+    font-family: 'Perandory';
+    font-size: 40px;
+    line-height: 37px;
+    color: #000;
+}
+
+.hd1-t span {
+    font-family: 'Amoresa';
+}
+
+.hd-2 img {
+    width: 150px;
+}
+
+.hc-e {
+    background: #b5cedb;
+    text-align: center;
+    padding: 20px;
+}
+
+.hc-e img {
+    height: 55px;
+}
+
+.he-1 {
+    text-align: justify;
+    padding: 25px 20px;
+    column-count: 2;
+    font-size: 12px;
+}
+
+.he-2 {
+    font-family: 'Perandory';
+    font-size: 40px;
+    color: #f5f5f5;
+    padding: 20px 0px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    letter-spacing: 3px;
+}
+
+.he-2 span {
+    font-family: 'Amoresa';
+}
+
+.hc-f {
+    padding: 0px 40px;
+    text-align: center;
+}
+
+.hf-1 {
+    background: #b94444;
+    color: #fff;
+    margin: 30px 170px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 9px;
+    letter-spacing: 1px;
+    font-family: 'Azeret Mono';
+    text-shadow: 1px 1px #000;
+}
+
+.hf-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-bottom: 60px;
+}
+
+.hf2-a img {
+    width: 50px;
+}
+
+.hf2-a span {
+    background: #5b6939;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 9px;
+    padding: 2px 10px;
+    font-family: 'Azeret Mono';
+    text-shadow: 1px 1px #000;
+}
+
+.hc-g {
+    display: flex;
+    background: #e3e3e3;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: -24px;
+    padding-top: 70px;
+}
+
+.hc-g img {
+    width: 150px;
+}
+
+.hg-a {
+    width: 290px;
+    text-align: justify;
+    font-size: 12px;
+}
+
+.hga-1 {
+    font-family: 'Perandory';
+    font-size: 35px;
+    color: #000;
+}
+
+.hga-1 span {
+    font-family: 'Amoresa';
+}
+
+.dark .hc-c {
+    background: #212121;
+}
+
+.dark .hd1-t {
+    color: #dedede;
+}
+
+.dark .hc-g {
+    background: #181818;
+}
+
+.dark .hga-1 {
+    color: #dedede;
+}
