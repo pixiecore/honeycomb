@@ -191,3 +191,9 @@
 .hf2-a {
     width: 150px;
 }
+
+.hga-2 {
+    height: 175px;
+    overflow: auto;
+    padding-right: 10px;
+}
